@@ -4,6 +4,12 @@
 
 This is the main repository for all of the projects in the course. I will add projects as the course progress.
 
+| #   | Project                                                                                        | Live Demo |
+| --- | ---------------------------------------------------------------------------------------------- | --------- |
+| 01  | [Expanding Cards](https://github.com/UnoMo/50-projects-in-50-days/tree/master/expanding-cards) | TBA       |
+| 02  | Progress Steps                                                                                 | TBA       |
+|     |                                                                                                |           |
+
 ### Licence
 
 The MIT License
