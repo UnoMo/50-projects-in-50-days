@@ -1,2 +1,2 @@
 # 50 Projects in 50 Days
-# HTML/SASS/CSS and JavaScript
+## HTML/SASS/CSS and JavaScript
