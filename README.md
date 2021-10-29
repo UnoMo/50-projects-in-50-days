@@ -7,7 +7,7 @@ This is the main repository for all of the projects in the course. I will add pr
 | #   | Project                                                                                        | Live Demo |
 | --- | ---------------------------------------------------------------------------------------------- | --------- |
 | 01  | [Expanding Cards](https://github.com/UnoMo/50-projects-in-50-days/tree/master/expanding-cards) | TBA       |
-| 02  | [Progress Steps] (https://github.com/UnoMo/50-projects-in-50-days/tree/master/progress-steps)  | TBA       |
+| 02  | [Progress Steps](https://github.com/UnoMo/50-projects-in-50-days/tree/master/progress-steps)   | TBA       |
 |     |                                                                                                |           |
 
 ### Licence
