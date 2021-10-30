@@ -17,6 +17,8 @@ body
   padding: 50px
   &.show-nav
     transform: rotate(-20deg)
+    .circle
+      transform: rotate(-70deg)
     &+nav
       li
         transform: translateX(0)
@@ -58,6 +60,11 @@ nav
   bottom: 40px
   left: 0
   z-index: 100
+  a
+    color: $color-circle-icon
+    text-decoration: none
+    &:link, &:visited, &:active
+      color: $color-circle-icon
   ul
     list-style-type: none
     padding-left: 30px
