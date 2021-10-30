@@ -2,13 +2,15 @@
 
 ## HTML/SASS/CSS and JavaScript
 
-This is the main repository for all of the projects in the course. I will add projects as the course progress.
+This is the main repository for all of the projects in the course. I will add projects as the course progress. I have done some changes in this, because I also want to train my SASS skills, and I may have done some other changes as I go as well.
+
+If you want to take the course (on Udemy) as it is, you can click the link: [Course Link](https://www.udemy.com/course/50-projects-50-days). The original project files for the course, can be found on [GitHub/bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days).
 
 | #   | Project                                                                                        | Live Demo |
 | --- | ---------------------------------------------------------------------------------------------- | --------- |
 | 01  | [Expanding Cards](https://github.com/UnoMo/50-projects-in-50-days/tree/master/expanding-cards) | TBA       |
 | 02  | [Progress Steps](https://github.com/UnoMo/50-projects-in-50-days/tree/master/progress-steps)   | TBA       |
-|     |                                                                                                |           |
+| 03  | [Rotating Navigation Animation] TBA                                                            | TBA       |
 
 ### Licence
 
